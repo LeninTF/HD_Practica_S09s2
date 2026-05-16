@@ -1,5 +1,7 @@
-EJEMPLO DE DOCUMENTO
-linea 2;
+EJEMPLO DE MODIFICAION DE DOCUMENTO
+linea de ejemplo 2;
 linea 3;
+linea 4;
 linea N;
-Fin de archivo.
+
+Fin de la modificacion del archivo.
